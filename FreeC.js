@@ -18,7 +18,7 @@ function golfScore(par, strokes) {
   }else if (strokes  >= par + 3	 ){
     return "Go Home!";
   }
-  // return "Change Me";
+
   // Only change code above this line
 }
 
